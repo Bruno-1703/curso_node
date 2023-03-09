@@ -1,0 +1,15 @@
+{
+  "name": "node",
+  "version": "0.0.1",
+  "description": "ees solo una aplicacion de tablas",
+  "main": "callback-hell.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bruno",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.7.1"
+  }
+}
